@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MultipleLanguage
+
+  Created by Chung on 7/27/18.
+  Copyright © 2018 Chung. All rights reserved.
+*/
+"WELLCOME" = "Welcome";
+"THANK_YOU" = "Thank you for trying this app, you are a great person!";
+"CANCEL" = "Cancel";
+"SIGNUP" = "Signup";
+"GETTING_STARTED" = "Get Started";

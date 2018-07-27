@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MultipleLanguage
+
+  Created by Chung on 7/27/18.
+  Copyright © 2018 Chung. All rights reserved.
+*/
+"WELLCOME" = "Chào mừng";
+"THANK_YOU" = "Cảm ơn bạn đã thử ứng dụng này, bạn là một người tuyệt vời!";
+"CANCEL" = "Huỷ";
+"SIGNUP" = "Đăng nhập";
+"GETTING_STARTED" = "Bắt đầu";
